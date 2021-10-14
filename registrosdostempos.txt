@@ -1,0 +1,26 @@
+sort1 ----------------- time ./sort1 random
+                        time ./sort1 reversed
+random5000.txt = 0.096
+random10000.txt = 0.529
+random50000.txt = 16.607
+reversed5000.txt = 0.078
+reversed10000.txt = 0.494
+reversed50000.txt = 12.294
+
+sort2 ----------------- time ./sort2 random
+                        time ./sort2 reversed
+random5000.txt = 0.018
+random10000.txt = 0.062
+random50000.txt = 3.437
+reversed5000.txt = 0.054
+reversed10000.txt = 0.022
+reversed50000.txt = 3.586
+ 
+sort3 ----------------- time ./sort3 random
+                        time ./sort3 reversed
+random5000.txt = 0.035
+random10000.txt = 0.239
+random50000.txt = 9.089
+reversed5000.txt = 0.077
+reversed10000.txt = 0.243
+reversed50000.txt = 9.245
